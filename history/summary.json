@@ -4,17 +4,17 @@
     "url": "https://nhlv.emeraldsys.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/nhlv.emeraldsys.xyz.ico",
     "slug": "nhl-viewer-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 110,
-    "timeWeek": 135,
-    "timeMonth": 127,
-    "timeYear": 131,
+    "time": 132,
+    "timeDay": 153,
+    "timeWeek": 146,
+    "timeMonth": 131,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   }
 ]
